@@ -1,2 +1,2 @@
 # OS-lite
-ITMO course
+ITMO course!
